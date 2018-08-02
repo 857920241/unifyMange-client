@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ai.cmcchina.crm.UnifyManageClient</string>
+				<string>com.asiainfo.Partner</string>
 				<key>bundle-version</key>
-				<string>2.22</string>
+				<string>2.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>新版本和助手</string>
+				<string>和伙人</string>
 			</dict>
 		</dict>
 	</array>
