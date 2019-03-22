@@ -15,19 +15,15 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://gitee.com/AIIPU/IPUShow/raw/master/iphone57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://gitee.com/AIIPU/IPUShow/raw/master/iphone512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -38,10 +34,8 @@
 				<string>2.48</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string></string>
 				<key>title</key>
-				<string>新版本和助手</string>
+				<string>unifyManage-client</string>
 			</dict>
 		</dict>
 	</array>
